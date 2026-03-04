@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi 👋 I'm Sneha Mohan
 
-<!--
-**snehamohan26/snehamohan26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 MCA Student  
+💻 Python & Django Developer  
+🤖 Interested in AI-based applications  
 
-Here are some ideas to get you started:
+## 🚀 Skills
+- Python
+- Django
+- HTML
+- CSS
+- JavaScript
+- SQL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Projects
+- AI-Based Automated Report Generation System
+- AI-Driven Strategic Governance for Project Success Prediction
+
+## 📫 Contact
+- LinkedIn: https://www.linkedin.com/in/snehamohan26
+- Email: snehamohan3214@gmail.com
